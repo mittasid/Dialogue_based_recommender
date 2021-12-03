@@ -1,0 +1,31 @@
+MOVIE_NAME	RELEASE_DATE	GENRE	RATING	LANGUAGE
+Bunty Aur Babli 2	11/19/2021	Comedy	3	Hindi
+Antim: The Final Truth	11/26/2021	Action	3	Hindi
+Sardar Udham		10/16/2021	Biography	4	Hindi
+Stree	08/31/2018	Horror	4	Hindi
+3 Idiots		12/23/2009	Comedy	5	Hindi
+Kung Fu Hustle	12/12/2004	Action	4	Chinese
+IP man	 01/28/2011	Action	4	Chinese
+The Rope Curse 2	09/02/2020	Horror	4	Chinese
+The Bridge Curse	02/27/2020	Horror	3	Chinese
+Lust, Caution	09/28/2007	Romance	4	Chinese
+La Reine Margot	12/9/1994	Biography	5	French
+Oxygen	05/12/2021	Sci-Fi	3	French
+Budapest	05/30/2018	Comedy	2	French	
+La vie d'Adèle	10/25/2013	Romance	4	French
+The French Dispatch	10/22/2021	Romance	4	French
+We're the Millers	08/07/2013	Comedy	4	English
+The Suicide Squad	08/06/2021	Action	4	English
+Titanic	12/19/1997	Romance	5	English
+Avatar	12/18/2009	Sci-Fi	5	English
+The Conjuring	07/19/2013	Horror	4	English
+Race Gurram	04/11/2014	Comedy	3	Telugu
+Pokiri	04/27/2006	Action	5	Telugu
+Arjun Reddy	08/25/2017	Romance	4	Telugu
+Tik Tik Tik	06/22/2018	Sci-Fi	3	Telugu
+Arundhati	01/23/2009	Horror	4	Telugu
+The Lizard	04/12/2004	Comedy	5	Persian
+The story of Noon	04/15/2017	Action	3	Persian
+Leily is With Me	06/06/1996	Romance	4	Persian
+Persepolis	12/25/2007	Biography	4	Persian
+Eghlima	02/05/2009	Horror	3	Persian
